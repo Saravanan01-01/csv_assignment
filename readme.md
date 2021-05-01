@@ -1,0 +1,1 @@
+I have use **python**, **Flask**, **Pandas** Library to upload a csv file through web interface and by using dataframe I have read the csv file and by using **MySql** as a Database. I have created a table through csv and also I have used **numpy** library for smooth and fast processing of data and also that helps in large data files.  
